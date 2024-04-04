@@ -1,1 +1,1 @@
-# APcompsci-Mastermind
+# Mastermind recreated with Java
